@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Telaprincipal.qml</file>
+        <file>Users.qml</file>
+        <file>Configuration.qml</file>
+        <file>Menu.qml</file>
+        <file>Calendario.qml</file>
+        <file>TelaLed.qml</file>
+        <file>Senha.qml</file>
+        <file>Inicializacao.qml</file>
+        <file>MidiaFormat.qml</file>
+        <file>Brilho.qml</file>
+        <file>SerialNumber.qml</file>
+    </qresource>
+</RCC>
